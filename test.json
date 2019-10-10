@@ -1,0 +1,38 @@
+[
+    {
+        "place of origin": " Ahichchhatra, Bareilly, Uttar Pradesh",
+        "url": "http://www.nationalmuseumindia.gov.in/images/products/arch-big1.jpg",
+        "name": "Ganga",
+        "tp": "5"
+    },
+    {
+        "place of origin": " Phophnar, Madhya Pradesh,",
+        "url": "http://www.nationalmuseumindia.gov.in/images/products/arch-big2.jpg",
+        "name": "Buddha",
+        "tp": "6"
+    },
+    {
+        "place of origin": " Kashmir",
+        "url": "http://www.nationalmuseumindia.gov.in/images/products/arch-big3.jpg",
+        "name": "Vishnu Vaikuntha",
+        "tp": "9"
+    },
+    {
+        "place of origin": " Tamil Nadu",
+        "url": "http://www.nationalmuseumindia.gov.in/images/products/arch-big4.jpg",
+        "name": "Nataraja",
+        "tp": "12"
+    },
+    {
+        "place of origin": "Recovered from Cave No. 3, Pitalkhora, Maharashtra",
+        "url": "http://www.nationalmuseumindia.gov.in/images/products/arch-big5.jpg",
+        "name": "Yaksha: Patravahaka",
+        "tp": "2"
+    },
+    {
+        "place of origin": " Konarak, Orissa",
+        "url": "http://www.nationalmuseumindia.gov.in/images/products/arch-big7.jpg",
+        "name": "Surya",
+        "tp": "13"
+    }
+]
